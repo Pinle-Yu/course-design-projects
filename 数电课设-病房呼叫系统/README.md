@@ -10,7 +10,7 @@
 
 ## 功能与实现
 
-<!-- 数电演示视频：首次推送后替换为 GitHub user-attachments 链接 -->
+https://github.com/user-attachments/assets/15b0ec4c-efe0-41f8-b06e-ffc62143de57
 
 按下病床开关后，对应 LED 点亮，数码管显示病床编号，蜂鸣器发出报警。多路同时呼叫时，74LS148N 选择并显示当前最高优先级编号。
 

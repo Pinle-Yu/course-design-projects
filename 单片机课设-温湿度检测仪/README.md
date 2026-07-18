@@ -10,7 +10,7 @@
 
 ## 功能与方案
 
-<!-- 单片机演示视频：首次推送后替换为 GitHub user-attachments 链接 -->
+https://github.com/user-attachments/assets/0814fb34-2716-407d-83cc-0787234cab9c
 
 <p align="center">
   <img src="assets/functional-demo.jpeg" alt="温湿度检测仪功能演示" width="430">
