@@ -1,0 +1,8 @@
+*.md text eol=lf
+*.png -text
+*.jpg -text
+*.jpeg -text
+*.webp -text
+*.zip -text
+*.ms14 -text
+*.epro2 -text
