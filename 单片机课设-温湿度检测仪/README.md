@@ -46,6 +46,6 @@ https://github.com/user-attachments/assets/0814fb34-2716-407d-83cc-0787234cab9c
   <img src="assets/软件总体流程图.png" alt="按键唤醒、采集、显示与休眠流程" width="480">
 </p>
 
-- [完整 CubeMX / Keil 工程](温湿度检测仪_完整工程.zip)
+- [Keil 工程](温湿度检测仪_完整工程.zip)
 
-完整工程使用 STM32CubeMX 6.10.0、STM32Cube FW_G0 V1.6.2 和 MDK-ARM V5.32，解压后可用 Keil 打开 `MDK-ARM/Project.uvprojx`。
+完整项目使用 CubeMX 图形化配置，Keil 编写代码。

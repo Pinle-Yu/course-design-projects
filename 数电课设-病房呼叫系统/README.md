@@ -45,8 +45,8 @@ https://github.com/user-attachments/assets/15b0ec4c-efe0-41f8-b06e-ffc62143de57
 
 仿真验证了呼叫输入、优先编码、数码管译码显示和蜂鸣报警链路。
 
-- [嘉立创 EDA 可编辑工程](病房呼叫系统_嘉立创EDA.epro2)
-- [Multisim 可编辑仿真工程](病房呼叫系统_Multisim.ms14)
+- [嘉立创 EDA 工程](病房呼叫系统_嘉立创EDA.epro2)
+- [Multisim 仿真工程](病房呼叫系统_Multisim.ms14)
 
 ## 复刻注意
 
