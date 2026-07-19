@@ -15,8 +15,8 @@ https://github.com/user-attachments/assets/26f3ff5e-35f4-44cf-8dca-5a207c786389
 按下病床开关后，对应 LED 点亮，数码管显示病床编号，蜂鸣器发出报警。多路同时呼叫时，74LS148N 选择并显示当前最高优先级编号。
 
 <p align="center">
-  <img src="assets/单路呼叫实物图.png" alt="单路呼叫" width="300">
-  <img src="assets/多路优先级实物图.png" alt="多路优先级呼叫" width="300">
+  <img src="assets/单路呼叫实物图.png" alt="单路呼叫" height="260">
+  <img src="assets/多路优先级实物图.png" alt="多路优先级呼叫" height="260">
 </p>
 
 <p align="center">
